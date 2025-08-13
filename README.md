@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rachana Chauhan and I'm a 3rd year at Gujarat University.</h2>
+<h2 align="left">Hi 👋! My name is Rachana Chauhan and I'm a 3rd year Student at Gujarat University.</h2>
 
 ###
 
