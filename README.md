@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rachana Chauhan</h1>
 
 <h3 align="center">
-Final Year IT Student • DevOps & Cloud Enthusiast • Open Source Contributor
+DevOps & Cloud Enthusiast
 </h3>
 
 <p align="center">
