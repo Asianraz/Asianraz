@@ -124,9 +124,6 @@ Employee Management Portal
 
 IBM Watsonx Orchestrate AI Agent
 
-### 🔹 QR & Barcode Generator
-
-React Application
 
 ---
 
